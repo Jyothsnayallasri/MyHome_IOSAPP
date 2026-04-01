@@ -5,5 +5,7 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
 
 ## ➕ Raise Complaint Screen
 
-<img src="Screenshots/figma/raise_complaint_v1.png" width="250"/>
-<img src="Screenshots/figma/raise_complaint_v2.png" width="250"/>
+<p align="center">
+  <img src="Screenshots/figma/raise_complaint_v1.png" width="250"/>
+  <img src="Screenshots/figma/raise_complaint_v2.png" width="250"/>
+</p>
