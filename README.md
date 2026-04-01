@@ -12,5 +12,4 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
 </p>
 
 ## ➕ Complaint List Screen
-
 <img src="Screenshots/figma/complaint_list_v1.png"/>
