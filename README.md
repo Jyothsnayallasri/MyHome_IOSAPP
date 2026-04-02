@@ -6,7 +6,7 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
 <p align="center">
   <img src="Screenshots/figma/Login_Page.png" width="230"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="Screenshots/figma/Otp_Verification.png" width="230"/>
+  <img src="Screenshots/figma/Otp_Verification_page.png" width="230"/>
 </p>
 
 
