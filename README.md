@@ -1,6 +1,15 @@
 # MyGate-Ios-app
 Apartment management iOS app built with UIKit, API integration, and modern UI design.
 
+## ➕ Complaint List Screen
+
+<p align="center">
+  <img src="Screenshots/figma/complaint_list_v1.png" width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/figma/complaint_list_v2.png" width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/figma/complaint_list_v3.png" width="220"/>
+</p>
 
 
 ## ➕ Raise Complaint Screen
@@ -16,12 +25,3 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
 - Compared category-based vs dropdown-based approach
 - Selected final design based on simplicity and scalability
 
-## ➕ Complaint List Screen
-
-<p align="center">
-  <img src="Screenshots/figma/complaint_list_v1.png" width="220"/>
-  &nbsp;&nbsp;
-  <img src="Screenshots/figma/complaint_list_v2.png" width="220"/>
-  &nbsp;&nbsp;
-  <img src="Screenshots/figma/complaint_list_v3.png" width="220"/>
-</p>
