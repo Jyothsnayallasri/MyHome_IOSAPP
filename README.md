@@ -15,6 +15,19 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
   <img src="Screenshots/figma/Security_Dashboard.png" width="230"/>
 </p>
 
+## ➕ Amenties Screens
+
+<p align="center">
+  <img src="Screenshots/figma/Amenties_Profile.png  " width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/figma/My_Bookings_v1.png" width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/figma/My_Bookings_v2.png" width="220"/>
+   &nbsp;&nbsp;
+  <img src="Screenshots/figma/My_Bookings_v3.png" width="220"/>
+</p>
+
+
 ## ➕ Raise Complaint Screen
 
 <p align="center">
