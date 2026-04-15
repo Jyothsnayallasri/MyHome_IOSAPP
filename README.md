@@ -15,6 +15,32 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
   <img src="Screenshots/figma/Security_Dashboard.png" width="230"/>
 </p>
 
+
+## ➕ Entry Form Screen
+
+<p align="center">
+  <img src="Screenshots/figma/Visitor_Entry.png" width="230"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Screenshots/figma/Delivery_Entry.png" width="230"/>
+</p>
+
+
+## ➕ Flat Details Screens
+
+<p align="center">
+  <img src="Screenshots/figma/flat_details_v1.png" width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/figma/flat_details_v2.png" width="220"/>
+  &nbsp;&nbsp;
+  <img src="Screenshots/figma/flat_details_Profile_v1.png" width="220"/>
+  &nbsp;&nbsp;
+   <img src="Screenshots/figma/flat_details_profile_v2.png" width="220"/>
+</p>
+
+
+
+
+
 ## ➕ Amenties Screens
 
 <p align="center">
@@ -34,13 +60,6 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
 </p>
 
 
-## ➕ Entry Form Screen
-
-<p align="center">
-  <img src="Screenshots/figma/Visitor_Entry.png" width="230"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="Screenshots/figma/Delivery_Entry.png" width="230"/>
-</p>
 
 ## ➕ Raise Complaint Screen
 
