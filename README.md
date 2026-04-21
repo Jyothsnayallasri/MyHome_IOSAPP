@@ -1,4 +1,4 @@
-# MyGate-Ios-app
+# MyHome-Ios-app
 Apartment management iOS app built with UIKit, API integration, and modern UI design.
 
 ## ➕ Login and Otp Verification Screen
