@@ -85,5 +85,13 @@ Apartment management iOS app built with UIKit, API integration, and modern UI de
   <img src="Screenshots/figma/complaint_list_v3.png" width="220"/>
 </p>
 
+## ➕ Society Dues Screen
+
+<p align="center">
+  <img src="Screenshots/figma/Society_Dues_1.png" width="230"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Screenshots/figma/Society_Dues_2.png" width="230"/>
+</p>
+
 
 
